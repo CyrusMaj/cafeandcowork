@@ -1,6 +1,6 @@
 ---
 contributors:
-  - https://www.instagram.com/cyrus_maj/
+  - https://www.instagram.com/philly_codes/
 added: 2025-01-28
 name: The Yard, Space to Work
 type: Coworking Space
@@ -20,15 +20,15 @@ hours:
   sun: closed
 wifi: 3
 speed: 10
-power: 4
-vacancy: 4
+power: 1
+vacancy: 3
 comfort: 4
 quiet: 3
-food: 1
-drinks: 5
-price: 4
-view: 1
-toilets: 3
+food: 0
+drinks: 4
+price: 0
+view: 3
+toilets: 5
 music: false
 smoking: false
 standing_tables: true
