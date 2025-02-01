@@ -9,7 +9,7 @@ google_maps: https://www.google.com/maps/place/The+Yard+-+Philadelphia+Coworking
 coordinates: 39.95113741507455, -75.15828135211228
 address:
   en: 21 S 11th St, Philadelphia, PA 19107
-station: Philadelphia
+station: Jefferson
 hours:
   mon: 9:30-17:30
   tue: 9:30-17:30
@@ -26,12 +26,12 @@ comfort: 4
 quiet: 3
 food: 0
 drinks: 4
-price: 0
+price: 3
 view: 3
 toilets: 5
 music: false
 smoking: false
-standing_tables: true
+standing_tables: false
 outdoor_seating: true
 cash_only: false
 animals: false
